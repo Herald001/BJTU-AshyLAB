@@ -1,10 +1,11 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6130758c-dd21-459a-8fa0-fd3774ae5fb4" alt="bjtu5" width="300"/>
+</div>
+
 # BJTU-AI
 
 欢迎访问本仓库！这是专业课完成的作业，旨在帮助学弟学妹更好地理解AI相关知识和技术，并提供参考资料。
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6130758c-dd21-459a-8fa0-fd3774ae5fb4" alt="bjtu5" width="300"/>
-</div>
 ## 仓库内容
 
 该仓库包含了多个AI专业的作业和项目，目前包括以下内容：

@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6130758c-dd21-459a-8fa0-fd3774ae5fb4" alt="bjtu5" width="300"/>
+  <img src="https://github.com/user-attachments/assets/6130758c-dd21-459a-8fa0-fd3774ae5fb4" alt="bjtu5" width="500"/>
+  
 </div>
 
 # BJTU-AI

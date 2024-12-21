@@ -6,8 +6,9 @@
 
 ## 1. 今日复习内容
 ### 机器学习/12.25考试
-**非常好的[西瓜书详解视频](https://www.bilibili.com/video/BV1Mh411e7VU/?spm_id_from=333.999.0.0&vd_source=418a233b7d994634d622441c5f15b5f6)**
-**Datawhale-[南瓜书链接](https://github.com/datawhalechina/pumpkin-book)**
+
+**参考资料：非常好的[南瓜书bilibili视频](https://www.bilibili.com/video/BV1Mh411e7VU/?spm_id_from=333.999.0.0&vd_source=418a233b7d994634d622441c5f15b5f6)以及Datawhale-[南瓜书仓库链接](https://github.com/datawhalechina/pumpkin-book)**
+
 - 支持向量机: SVM、核函数、软间隔与支持向量回归SVR
 - 贝叶斯模型：贝叶斯决策论、朴素贝叶斯分类器、半朴素贝叶斯分类器（独依赖估计'ODE'和超父独依赖估计'SPODE'） 
 - 集成学习：个体与集成（'好而不同'）、Boosting（Adaboost、GDBT、XGboost）、Bagging（随机森林）、
